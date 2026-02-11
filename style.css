@@ -26,8 +26,8 @@ body{
 
 #container{
     background-color: rgb(255, 254, 254);
-    width: 450px;
-    height: 550px;
+    width:450px;
+    height:400x;
     border-radius: 15px;
     justify-content: center;
     align-items: center;
@@ -73,6 +73,7 @@ body{
         font-size: 30px;
         margin-bottom: 20px;
     }
+}
 
     #container{
         max-width: 300px;
@@ -83,4 +84,5 @@ body{
     #container i{
         font-size: 55px;
     }
-}
+
+
